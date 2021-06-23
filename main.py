@@ -73,10 +73,6 @@ while running:
 
     else:
 
-        # Assignment 1:
-        if difficulty:
-            if obstacleX_change < 0.4:
-                obstacleX_change += 0.00001
 
         # Displaying and managing obstacles
         for i in range(num_of_obstacle):
